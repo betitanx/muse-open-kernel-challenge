@@ -2,7 +2,7 @@
 
 # Muse Open Kernel Challenge
 
-Participação de **Bernardo** na vertente de kernels do **Muse Spark Open Kernel Challenge**, com foco em **`muse_bf16_proj`**: projeções densas BF16 e roteador FP32 do Muse Spark Open, avaliados contra o SGLang em uma NVIDIA H200.
+Minha participação na competição de kernels **Muse Spark Open Kernel Challenge**, com foco em **`muse_bf16_proj`**: projeções densas BF16 e roteador FP32 do Muse Spark Open, avaliados contra o SGLang em uma NVIDIA H200.
 
 Este repositório reúne **três soluções**: a versão publicada no leaderboard e as duas candidatas distintas com maiores resultados globais de check entre os arquivos restantes do nosso histórico. O check da própria versão publicada não conta como outra solução.
 
