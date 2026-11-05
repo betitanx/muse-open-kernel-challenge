@@ -1,0 +1,76 @@
+{
+  "criado_em_utc": "2026-11-05T16:31:17.528791+00:00",
+  "avaliacoes": 126,
+  "checks": 121,
+  "pontuadas": 5,
+  "relatorios_resumidos": 2243,
+  "fontes_catalogadas": 1401,
+  "documentos_completos": 8,
+  "arquivos": [
+    {
+      "arquivo": "avaliacoes.json",
+      "bytes": 701726,
+      "sha256": "62eee537cb299db95fe49a9b0d42212dc68855a3dbcc01db555ddfd257621b12"
+    },
+    {
+      "arquivo": "avaliacoes.md",
+      "bytes": 14840,
+      "sha256": "a337e1aec5aa001becf54683517523a22965e8646c132ceba97086c3c5149833"
+    },
+    {
+      "arquivo": "catalogo-de-fontes.json",
+      "bytes": 268716,
+      "sha256": "dd8175764582125b2a73b4cbe6c1033c394e4de721a746adaacc9981dd59289c"
+    },
+    {
+      "arquivo": "cobertura.md",
+      "bytes": 2817,
+      "sha256": "5f15746a78b57092c817402ef365803f6d1294ad015af4e28f0f17cec3c9743e"
+    },
+    {
+      "arquivo": "continuidade-ate-v128.md",
+      "bytes": 7925,
+      "sha256": "e5be583d64ba73d673e65fab9488dae487215e79de04d8f24cb3a9b290366d98"
+    },
+    {
+      "arquivo": "continuidade-ate-v138.md",
+      "bytes": 10429,
+      "sha256": "95dc3fd72b18a5d52de7dfb107e0f9839db8e34ad46b32744b8e3b20d3b47a14"
+    },
+    {
+      "arquivo": "desempenho.md",
+      "bytes": 11995,
+      "sha256": "f4042020d57f932ff6e0b90036fbf8b8306d2bc3e78ed3922529ba7f3465fc64"
+    },
+    {
+      "arquivo": "estado-ate-v138.md",
+      "bytes": 7239,
+      "sha256": "b79c4e02d6d0efabcf65711c68da50ca801172c5769752f5f3f8ae3ba73e651a"
+    },
+    {
+      "arquivo": "laboratorio-completo.md",
+      "bytes": 1048477,
+      "sha256": "f88e9caab6e9ed30e803fa8652fa183850f29b86d62f4b92c62b5db9cf59a920"
+    },
+    {
+      "arquivo": "pesquisas.json",
+      "bytes": 1044650,
+      "sha256": "1d96add79e4a31b7d33552c09454270d14b6171bd7d722b0fe24b006719e996f"
+    },
+    {
+      "arquivo": "README.md",
+      "bytes": 3694,
+      "sha256": "9204dbc964afc18315d0f61b38541358f23c1819c476c608ede923460b6cac63"
+    },
+    {
+      "arquivo": "resumo-04-11.md",
+      "bytes": 11052,
+      "sha256": "9414298a1f7c382feb8e288f994dddee65920a4c0126229a705e121f231e7320"
+    },
+    {
+      "arquivo": "resumo-05-11.md",
+      "bytes": 5855,
+      "sha256": "7079df8e69d2b544b0bd3366e640e7bca8157d23fc30172868d6d334d3c4e0d1"
+    }
+  ]
+}

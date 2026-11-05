@@ -114,3 +114,7 @@ A velocidade da solução publicada vem em grande parte de implementações púb
 Código distribuído sob [Apache-2.0](LICENSE), respeitando as licenças e atribuições dos componentes incorporados. Os textos legais e os cabeçalhos originais foram mantidos; a documentação da participação está em português-BR.
 
 O [banner oficial](https://openkernelchallenge.dev/opengraph-kernels.jpg?v=7) foi obtido no site da competição. Marcas e elementos visuais pertencem aos respectivos titulares; a licença do código não transfere direitos sobre essas marcas.
+
+## Histórico completo da pesquisa
+
+O [arquivo histórico](historico/README.md) reúne a linha do tempo das 126 avaliações, o diário integral, os resumos de pesquisas e o catálogo das fontes experimentais. As decisões e limitações acompanham os resultados para permitir a consulta após a limpeza do ambiente local.
