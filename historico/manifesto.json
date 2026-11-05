@@ -8,34 +8,39 @@
   "documentos_completos": 8,
   "arquivos": [
     {
+      "arquivo": "README.md",
+      "bytes": 3656,
+      "sha256": "5875ddb1ce9da4d09abdca3155e4824d2669d525507924e385c469e94dc1def3"
+    },
+    {
       "arquivo": "avaliacoes.json",
-      "bytes": 701726,
-      "sha256": "62eee537cb299db95fe49a9b0d42212dc68855a3dbcc01db555ddfd257621b12"
+      "bytes": 674589,
+      "sha256": "68cac1becaae0a592855415424ec586db422ed95dd2dfc2c1b905d756359b8b3"
     },
     {
       "arquivo": "avaliacoes.md",
-      "bytes": 14840,
-      "sha256": "a337e1aec5aa001becf54683517523a22965e8646c132ceba97086c3c5149833"
+      "bytes": 14708,
+      "sha256": "cf9a4bc3fcef86df73f93bfbecb78b795fa5ffeb852aef4aa267f34f665cbd46"
     },
     {
       "arquivo": "catalogo-de-fontes.json",
-      "bytes": 268716,
-      "sha256": "dd8175764582125b2a73b4cbe6c1033c394e4de721a746adaacc9981dd59289c"
+      "bytes": 261709,
+      "sha256": "fb2528fdb3bc192535bf153b4b36433967d24d8c22dfe58f5be43fafd17c1f56"
     },
     {
       "arquivo": "cobertura.md",
-      "bytes": 2817,
-      "sha256": "5f15746a78b57092c817402ef365803f6d1294ad015af4e28f0f17cec3c9743e"
+      "bytes": 2796,
+      "sha256": "181256c9f75bf74da941ba981c01da3f1c5f0f9fc8fd2b1271b9a7db49159d23"
     },
     {
       "arquivo": "continuidade-ate-v128.md",
-      "bytes": 7925,
-      "sha256": "e5be583d64ba73d673e65fab9488dae487215e79de04d8f24cb3a9b290366d98"
+      "bytes": 7875,
+      "sha256": "e8a008d38d6b7ee64d454190e42b1c0c18577c8b3cd173e7828fafd6a815f1b5"
     },
     {
       "arquivo": "continuidade-ate-v138.md",
-      "bytes": 10429,
-      "sha256": "95dc3fd72b18a5d52de7dfb107e0f9839db8e34ad46b32744b8e3b20d3b47a14"
+      "bytes": 10370,
+      "sha256": "72cdbc2e1e1dcd10f2689501915df2cdacb7ae0422987aeb7b9e1bcbd6c53e76"
     },
     {
       "arquivo": "desempenho.md",
@@ -44,8 +49,8 @@
     },
     {
       "arquivo": "estado-ate-v138.md",
-      "bytes": 7239,
-      "sha256": "b79c4e02d6d0efabcf65711c68da50ca801172c5769752f5f3f8ae3ba73e651a"
+      "bytes": 7209,
+      "sha256": "1a3bcfe09ffbe3ababde469831af5b63a3f3f368ca6d2b2a22568f47e11e07a4"
     },
     {
       "arquivo": "laboratorio-completo.md",
@@ -54,13 +59,8 @@
     },
     {
       "arquivo": "pesquisas.json",
-      "bytes": 1044650,
-      "sha256": "1d96add79e4a31b7d33552c09454270d14b6171bd7d722b0fe24b006719e996f"
-    },
-    {
-      "arquivo": "README.md",
-      "bytes": 3694,
-      "sha256": "9204dbc964afc18315d0f61b38541358f23c1819c476c608ede923460b6cac63"
+      "bytes": 1025884,
+      "sha256": "5d99aaa353c00f08b799b245a2de14cd8424f089b6f3b6d5ba25ab72425361d5"
     },
     {
       "arquivo": "resumo-04-11.md",
