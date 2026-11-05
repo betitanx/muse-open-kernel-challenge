@@ -14,15 +14,11 @@ Este repositório reúne **três soluções**: a versão publicada no leaderboar
 | Problema | `muse_bf16_proj` |
 | Melhor submissão pontuada válida | **1,574877619×** sobre o SGLang |
 | Intervalo oficial de 95% | **[1,551254455; 1,598500783]** |
-| Posição registrada no encerramento, em 05/11/2026 às 08h UTC | **192ª, provisória** |
 | Posição na consulta de 05/11/2026, às 14h13 UTC | **194ª, provisória** |
-| Encerramento da etapa de kernels | 05/11/2026, 08h UTC — 05h de Brasília |
+| Encerramento da etapa de kernels | 05/11/2026, 08:00 UTC — 05:00 de Brasília |
 | Avaliações oficiais acumuladas | **126: 121 checks e 5 submissões pontuadas** |
-| Arquivos distintos avaliados | 120 hashes de código |
 
-A posição final homologada depende da revisão dos organizadores. O objetivo de chegar ao top 5 não foi atingido. O [leaderboard oficial](https://openkernelchallenge.dev/problems/muse_bf16_proj) pode mudar após o encerramento por conclusão de jobs já aceitos e revisão das submissões.
-
-A publicação melhorou **3,96%** sobre nossa versão válida anterior, de 1,514866388×, com intervalos separados. Uma submissão antiga de 1,540954514× foi desclassificada por conter fonte codificada/compactada decodificada em tempo de execução; ela ficou fora deste repositório e do critério de melhor resultado válido.
+O [leaderboard oficial](https://openkernelchallenge.dev/problems/muse_bf16_proj) pode mudar após o encerramento por conclusão de jobs já aceitos e revisão das submissões.
 
 ## As três soluções
 
@@ -31,8 +27,6 @@ A publicação melhorou **3,96%** sobre nossa versão válida anterior, de 1,514
 | [Solução publicada](solucoes/solucao_publicada.py) | **1,574877619×** | [1,551254455; 1,598500783] | Submissão pontuada; está no leaderboard. |
 | [Candidata 1 — cuBLASLt O256](solucoes/candidata_01_lt_o256.py) | **1,595119240×** | [1,571192451; 1,619046028] | Check aprovado; o plano parental foi mantido. |
 | [Candidata 2 — router QS8](solucoes/candidata_02_router_qs8.py) | **1,582186524×** | [1,558453726; 1,605919322] | Check aprovado; o kernel novo executou. |
-
-Os três arquivos passaram pelos **9 testes de correção, 30 formatos de benchmark e 30 perfis**, sem flags de rejeição nessas avaliações. Os códigos são cópias exatas dos artefatos avaliados; hashes e IDs de job estão no [manifesto](resultados/manifesto.json).
 
 ### Solução publicada
 
@@ -71,8 +65,6 @@ A pesquisa foi assistida por agentes, com controle explícito dos experimentos e
 5. **Checks oficiais guiando a próxima decisão.** Antes de cada envio, reavaliávamos as candidatas disponíveis. A cota da API era o limite real na reta final; não havia espera obrigatória entre avaliações. Jobs pendentes eram acompanhados antes de iniciar outro.
 6. **Publicação seletiva.** Uma combinação precisava de validação integral e ganho demonstrado além da incerteza sobre a melhor publicação. Submissões pontuadas não substituíam checks; resultados apenas nominalmente maiores não eram promovidos.
 7. **Memória experimental.** O laboratório registrava hipótese, SHA-256, job, correção, intervalo, regressões e decisão, permitindo descartar variantes já negativas e preservar a melhor versão publicada.
-
-Na reta final foram **15 checks e uma submissão pontuada**. Ao encerrar, o histórico continha 186 entradas nativas emitidas localmente, incluindo controles; essa contagem é distinta das 126 avaliações oficiais. A pesquisa preservou carga, precisão, entradas novas, grafos CUDA e L2 frio. Não alterou o avaliador, não usou cache de ativações ou saídas e não relaxou tolerâncias para aprovar variantes. O uso de bibliotecas está explicitado nas descrições das soluções.
 
 ## Arquivos e reprodução
 
