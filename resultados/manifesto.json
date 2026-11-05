@@ -1,0 +1,51 @@
+{
+  "competicao": "Open Kernel Challenge — Muse Spark Open Kernel Challenge",
+  "equipe": "betitanx",
+  "vertente": "muse_bf16_proj",
+  "gpu": "NVIDIA H200 / Hopper SM90a",
+  "posicao_no_encerramento": 192,
+  "posicao_consultada": 194,
+  "consultado_em_utc": "2026-11-05T14:13:53.560Z",
+  "posicao_homologada": false,
+  "solucoes": [
+    {
+      "id": "publicada",
+      "arquivo": "solucoes/solucao_publicada.py",
+      "sha256": "7328887dee1bbaf4e13a797acddb2f515448a5c1920f5704a63fc8c38f14201a",
+      "job": "af7157ee60b0482f",
+      "modalidade": "submissao_pontuada",
+      "aceleracao": 1.574877619081247,
+      "intervalo_95": [
+        1.5512544547950282,
+        1.5985007833674656
+      ],
+      "resultados": "resultados/publicada.json"
+    },
+    {
+      "id": "candidata_lt_o256",
+      "arquivo": "solucoes/candidata_01_lt_o256.py",
+      "sha256": "c9aa7a11fc7c19d743fbac8c39622723115629e382e679867d4852d2f006e027",
+      "job": "b30ca0f533b0455d",
+      "modalidade": "check_sem_pontuacao_no_placar",
+      "aceleracao": 1.5951192395353295,
+      "intervalo_95": [
+        1.5711924509422996,
+        1.6190460281283594
+      ],
+      "resultados": "resultados/candidata_lt_o256.json"
+    },
+    {
+      "id": "candidata_router_qs8",
+      "arquivo": "solucoes/candidata_02_router_qs8.py",
+      "sha256": "bc899bd185d04c480139b3eff9878a150f078b298fae587f877f585ababc88b5",
+      "job": "c87c12c5847d42d2",
+      "modalidade": "check_sem_pontuacao_no_placar",
+      "aceleracao": 1.5821865237964747,
+      "intervalo_95": [
+        1.5584537259395277,
+        1.6059193216534218
+      ],
+      "resultados": "resultados/candidata_router_qs8.json"
+    }
+  ]
+}

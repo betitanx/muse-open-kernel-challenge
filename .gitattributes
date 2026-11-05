@@ -1,0 +1,3 @@
+* text=auto eol=lf
+solucoes/*.py -text
+assets/*.jpg binary
