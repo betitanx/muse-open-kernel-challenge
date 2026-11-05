@@ -1,6 +1,6 @@
 [![Banner oficial da competição](assets/banner-oficial.jpg)](https://openkernelchallenge.dev/)
 
-# Open Kernel Challenge
+# Muse Open Kernel Challenge
 
 Participação da equipe **betitanx** na vertente de kernels do **Muse Spark Open Kernel Challenge**, com foco em **`muse_bf16_proj`**: projeções densas BF16 e roteador FP32 do Muse Spark Open, avaliados contra o SGLang em uma NVIDIA H200.
 
