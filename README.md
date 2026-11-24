@@ -14,11 +14,12 @@ Este repositório reúne **três soluções**: a versão publicada no leaderboar
 | Problema | `muse_bf16_proj` |
 | Melhor submissão pontuada válida | **1,574877619×** sobre o SGLang |
 | Intervalo oficial de 95% | **[1,551254455; 1,598500783]** |
+| Classificação de `betitanx` em `muse_bf16_proj` após a revisão | **190º lugar entre 1.741 participantes** (consulta de 24/11/2026) |
 | Posição na consulta de 05/11/2026, às 14h13 UTC | **194ª, provisória** |
 | Encerramento da etapa de kernels | 05/11/2026, 08:00 UTC — 05:00 de Brasília |
 | Avaliações oficiais acumuladas | **126: 121 checks e 5 submissões pontuadas** |
 
-O [leaderboard oficial](https://openkernelchallenge.dev/problems/muse_bf16_proj) pode mudar após o encerramento por conclusão de jobs já aceitos e revisão das submissões.
+A organização concluiu a revisão da etapa de kernels em 11/11/2026. A classificação acima é a do problema `muse_bf16_proj`. [Placar por problema](https://openkernelchallenge.dev/problems/muse_bf16_proj) · [Comunicado oficial](https://openkernelchallenge.dev/updates).
 
 ## As três soluções
 

@@ -4,9 +4,19 @@
   "vertente": "muse_bf16_proj",
   "gpu": "NVIDIA H200 / Hopper SM90a",
   "posicao_no_encerramento": 192,
-  "posicao_consultada": 194,
-  "consultado_em_utc": "2026-11-05T14:13:53.560Z",
-  "posicao_homologada": false,
+  "classificacao_apos_revisao": {
+    "posicao": 190,
+    "total_participantes": 1741,
+    "consultado_em": "2026-11-24",
+    "revisao_da_etapa_concluida_em": "2026-11-11",
+    "job": "af7157ee60b0482f",
+    "aceleracao": 1.574877619081247,
+    "fonte": "https://openkernelchallenge.dev/api/v1/leaderboard/muse_bf16_proj"
+  },
+  "consulta_provisoria_historica": {
+    "posicao": 194,
+    "consultado_em_utc": "2026-11-05T14:13:53.560Z"
+  },
   "solucoes": [
     {
       "id": "publicada",
