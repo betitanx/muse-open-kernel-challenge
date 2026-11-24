@@ -14,7 +14,7 @@ Este repositório reúne **três soluções**: a versão publicada no leaderboar
 | Problema | `muse_bf16_proj` |
 | Melhor submissão pontuada válida | **1,574877619×** sobre o SGLang |
 | Intervalo oficial de 95% | **[1,551254455; 1,598500783]** |
-| Classificação de `betitanx` em `muse_bf16_proj` após a revisão | **190º lugar entre 1.741 participantes** (consulta de 24/11/2026) |
+| Classificação de `betitanx` em `muse_bf16_proj` após a revisão | **190º lugar entre 1.741 participantes** |
 | Encerramento da etapa de kernels | 05/11/2026, 08:00 UTC — 05:00 de Brasília |
 | Avaliações oficiais acumuladas | **126: 121 checks e 5 submissões pontuadas** |
 
